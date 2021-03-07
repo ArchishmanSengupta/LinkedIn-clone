@@ -5,7 +5,7 @@ import ImageIcon from "@material-ui/icons/Image"
 import SubscriptionsIcon from "@material-ui/icons/Subscriptions"
 import EventNoteIcon from "@material-ui/icons/EventNote"
 import CalenderViewDayIcon from "@material-ui/icons/CalendarViewDay"
-
+import Post from "./Post"
 import InputOption from './InputOption'
 function Feed() {
     return (
@@ -30,6 +30,9 @@ function Feed() {
 
                 </div>
             </div>
+            <Post 
+            name="Archishman Sengupta" description="DSC IIT Patna"
+            message="6* Hackerrank"/>
         </div>
     )
 }
