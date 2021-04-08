@@ -2,8 +2,8 @@
     flex:0.6;
     margin: 0 20px;
 }
-.feed__inputcontainer{
-    background-color: white;
+.feed__inputContainer{
+    background-color: rgb(247, 243, 243);
     padding: 10px;
     padding-bottom: 20px;
     border-radius: 10px;

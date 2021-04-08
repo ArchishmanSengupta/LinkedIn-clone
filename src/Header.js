@@ -10,7 +10,7 @@ import NotificationsIcon from '@material-ui/icons/Notifications'
 function Header() {
     return (
         <div className='header'>
-            <h1></h1>
+            
             <div className="header__left">
                 <img src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1614417530~hmac=8993d58cb66c325402997d0158282220" alt=""/>
                 <div className="header__search">
