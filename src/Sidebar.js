@@ -14,7 +14,7 @@ function Sidebar() {
                 <img src="https://media-exp1.licdn.com/dms/image/C4E16AQFnsGBq4vQ2eA/profile-displaybackgroundimage-shrink_350_1400/0/1611828992429?e=1620259200&v=beta&t=KZD7I42aXLsWHpFl62vuqNUxlHu_xPoI7tP2DhEIh8c" alt=""/>
                 <Avatar className="sidebar__avatar"/>
                 <h2>
-                    Archishman Sengupta
+                    Arghya Pahar
                 </h2>
                 <h4>archishman1808@gmail.com</h4>
             </div>
